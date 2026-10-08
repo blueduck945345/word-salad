@@ -1,3 +1,4 @@
+'''Serve app on specified host settings'''
 import uvicorn
 from app import app
 
