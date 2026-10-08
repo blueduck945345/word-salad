@@ -26,4 +26,6 @@ The server stores data by performing a `SADD` operation, adding any number of sa
 - Install Docker Desktop and CLI
 - Within /server directory -- run `docker-compose up`
 
+### SDK
 
+- See `/sdk/README.md`
