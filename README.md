@@ -2,7 +2,7 @@
 
 ## Description
 
-SDK and sever for Motorola task.
+SDK and sever.
 
 In order to make the process threadsafe, I opted to incorporate Redis as a datastore for the line entry data. Because Redis is single-threaded, as long as operations are atomic, sampling and loading lines should also be threadsafe.
 
